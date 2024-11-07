@@ -14,7 +14,7 @@ android {
         sourceCompatibility JavaVersion.VERSION_1_8
         targetCompatibility JavaVersion.VERSION_1_8
     }
-    namespace 'org.swerverobotics.ftc'
+    namespace 'org.swerverobotics.ftcdrivers'
     publishing {
         publishing {
             singleVariant('release') {
